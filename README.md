@@ -22,3 +22,7 @@ src\main http://127.0.0.1/MyService?WSDL
 
         System.out.println(hs.aliassayHello("sjk"));
 ```
+
+### xStream 的使用方法
+xStream 是 xml字符串与java 对象相互转换的工具  
+使用详见XmlUtils工具类
